@@ -1,1 +1,2 @@
 # CarManagerService
+This is a University project. In this project I have created a program that manages a Car Service. It keeps evidence of cars, clients, warranties and discounts offered to clients. I validate user inputs and throw execptions accordingly. The project is organized on a 4 layer architecture and I have created special exception classes for every situation. JUnit5 Tests were run with a code coverage of 86%.
